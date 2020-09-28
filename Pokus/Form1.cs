@@ -22,6 +22,7 @@ namespace Pokus
             //sčítání
             //odčítání
             //násobení
+            //deleni
         }
     }
 }
