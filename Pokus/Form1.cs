@@ -21,6 +21,7 @@ namespace Pokus
         {
             //sčítání
             //odčítání
+            //násobení
         }
     }
 }
